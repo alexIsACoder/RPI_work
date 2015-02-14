@@ -1,2 +1,2 @@
 # RPI_work
-codes of raspberryPI B+
+codes and docs of raspberryPI B+
